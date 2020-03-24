@@ -1,0 +1,77 @@
+
+body{
+  background-color: rgba(51, 161, 119, 0.288);
+
+
+}
+
+.jumbotron {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    margin-bottom: 0;
+    background-color: rgba(51, 161, 119, 0);
+    color: white;
+
+  }
+  @media (min-width: 768px) {
+    .jumbotron {
+      padding-top: 6rem;
+      padding-bottom: 6rem;
+      color: white;
+      
+    }
+  }
+  
+  .jumbotron p:last-child {
+    margin-bottom: 0;
+  
+  }
+  
+  .jumbotron h1 {
+    font-weight: 300;
+  }
+  
+  .jumbotron .container {
+    max-width: 40rem;
+  }
+  
+  footer {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
+  
+  footer p {
+    margin-bottom: .25rem;
+  }
+  .singup{
+    font-family: 'Suez One', serif;
+    direction: rtl;
+  }
+  /* .card-body{
+    background-color: rgba(12, 10, 10, 0.13);
+
+  } */
+
+ .text-addr{
+  color: white;
+}
+  .card-body{
+    background-color: rgba(23, 32, 36, 0.342);
+    color: white;
+  }
+
+  .btn{
+    color:white
+  }
+
+  .info{
+    background-color: rgb(157, 196, 196);
+  }
+
+  .d-block{
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    height: 30%;
+    display: block;
+  }

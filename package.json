@@ -1,0 +1,17 @@
+{
+  "name": "main-page",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OsherDev2020",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "https": "^1.0.0",
+    "request": "^2.88.2"
+  }
+}
